@@ -1,0 +1,18 @@
+[2026-07-02 22:10:29] LOGIN berhasil untuk user: admin
+[2026-07-02 22:12:07] Tambah buku baru: B008 - Pemrograman Java Lanjut
+[2026-07-02 22:12:30] Update anggota: A001
+[2026-07-02 22:12:52] Transaksi peminjaman baru: Buku=B005, Anggota=A001
+[2026-07-02 22:12:52] PEMINJAMAN: Buku=B005, Anggota=A001 berhasil diproses.
+[2026-07-02 22:13:31] Pengembalian buku untuk transaksi #3
+[2026-07-02 22:13:31] PENGEMBALIAN: Transaksi #3 berhasil diproses.
+[2026-07-02 22:13:58] Export data buku ke CSV berhasil: C:\Users\Administrator\Documents\data_buku.csv (7 data)
+[2026-07-02 22:14:49] Struk peminjaman dicetak: C:\Users\Administrator\Documents\struk_peminjaman.txt
+[2026-07-03 20:38:23] LOGIN berhasil untuk user: admin
+[2026-07-03 20:40:06] Tambah buku baru: B009 - Pengarang handal
+[2026-07-03 20:40:25] Update buku: B009
+[2026-07-03 20:41:32] Tambah anggota baru: A005 - Mamas Galon
+[2026-07-03 20:41:55] Transaksi peminjaman baru: Buku=B009, Anggota=A001
+[2026-07-03 20:41:55] PEMINJAMAN: Buku=B009, Anggota=A001 berhasil diproses.
+[2026-07-03 20:42:17] Pengembalian buku untuk transaksi #1
+[2026-07-03 20:42:17] PENGEMBALIAN: Transaksi #1 berhasil diproses.
+[2026-07-03 20:42:51] Export data buku ke CSV berhasil: C:\Users\Administrator\Documents\data_buku.csv (8 data)
